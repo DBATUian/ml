@@ -115,8 +115,8 @@ Each practical folder contains:
 ---
 
 ## Author
-Manoj Pawar  
-(23030331245027)
+Sudarshan Jagtap  
+(23030331245036)
 B.Tech – Computer Engineering
 
 ---
